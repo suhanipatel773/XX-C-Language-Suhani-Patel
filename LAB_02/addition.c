@@ -1,5 +1,5 @@
 #include<stdio.h>
-#conio<conio.h>
+#include<conio.h>
 int main ()
 {
 int a;
